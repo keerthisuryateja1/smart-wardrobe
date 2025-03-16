@@ -16,7 +16,7 @@ function getRecommendation() {
                     - Women: Sundress, sandals<br>
                     <strong>Colors:</strong> White, beige, light blue, pastel shades<br>
                     <strong>Avoid:</strong> Dark colors (absorb heat)<br>
-                    <strong>Accessories:</strong> Sunglasses, cap, sunscreen
+                    <strong>Accessories:</strong> Sunglasses, cap, sunscreens
                 `;
                 break;
 
